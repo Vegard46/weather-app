@@ -17,7 +17,7 @@ function WeatherWidget() {
               searchby: 'city'
             },
             headers: {
-              'X-RapidAPI-Key': 'e4905e40eemsh7be5068681dc45bp1a35cajsn7e67c1df32c6',
+              'X-RapidAPI-Key': '',
               'X-RapidAPI-Host': 'andruxnet-world-cities-v1.p.rapidapi.com'
             }
           };
